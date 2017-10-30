@@ -2,8 +2,8 @@
 
 This cookbook has moved to chef-brigade/mongodb
 
-- Supermarket: https://supermarket.chef.io/cookbooks/brigade-mongodb
-- Github: https://github.com/chef-brigade/mongodb-cookbook
+- Supermarket: https://supermarket.chef.io/cookbooks/sc-mongodb
+- Github: https://github.com/sous-chefs/mongodb
 
 Original homes were:
 
